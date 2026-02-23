@@ -138,13 +138,13 @@ src/
 ![Login](https://github.com/codeDev1209/Saas-Dashboard/blob/75323dab5531a5990998c1f29034f01f8473e4e7/screenshots/login.png)
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Dashboard+Overview)
+![Dashboard](https://github.com/codeDev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/dashboard.png)
 
 ### Products Page
-![Products](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Products+Management)
+![Products](https://github.com/codeDev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/products.png)
 
 ### Dark Mode
-![Dark Mode](https://via.placeholder.com/800x400/1e293b/ffffff?text=Dark+Mode)
+![Dark Mode](https://github.com/codeDev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/darkmode.png)
 
 ## License
 
