@@ -135,7 +135,7 @@ src/
 ## Screenshots
 
 ### Login Page
-![Login](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Login+Page)
+![Login](https://github.com/codeDev1209/Saas-Dashboard/blob/75323dab5531a5990998c1f29034f01f8473e4e7/screenshots/login.png)
 
 ### Dashboard Overview
 ![Dashboard](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Dashboard+Overview)
