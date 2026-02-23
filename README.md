@@ -2,7 +2,7 @@
 
 A modern, responsive admin dashboard built with React, Tailwind CSS, and Chart.js. Features a sleek dark/light mode, interactive charts, full CRUD operations, animations, internationalization, and PWA support.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600/4f46e5/ffffff?text=SaaS+Dashboard+Preview)
+![Dashboard Preview](https://github.com/codeDev1209/Saas-Dashboard/blob/56fbb50ab91b9cb83c3084fc5063ec46e811d497/screenshots/dashboard.png)
 
 ## 🔗 Live Demo
 
