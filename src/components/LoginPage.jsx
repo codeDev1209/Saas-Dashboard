@@ -1,9 +1,11 @@
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import { Mail, Lock, Zap, Eye, EyeOff } from 'lucide-react'
 import { useApp } from '../context/AppContext'
 
 export function LoginPage() {
   const { handleLogin, darkMode } = useApp()
+  const navigate = useNavigate()
   const [email, setEmail] = useState('bugbie@demo.com')
   const [password, setPassword] = useState('password')
   const [showPassword, setShowPassword] = useState(false)
@@ -34,6 +36,7 @@ export function LoginPage() {
     setIsSubmitting(true)
     try {
       await handleLogin(email, password)
+      navigate('/')
     } catch (error) {
       console.error(error)
     } finally {
