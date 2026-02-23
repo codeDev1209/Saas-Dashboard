@@ -1,5 +1,5 @@
 import { useState, useEffect, createContext, useContext, useRef } from 'react'
-import { BrowserRouter, Routes, Route, NavLink, useNavigate, useLocation } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, NavLink, useNavigate, useLocation, Navigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Line, Doughnut } from 'react-chartjs-2'
 import './i18n'
@@ -1034,6 +1034,7 @@ function Dashboard() {
               <Route path="/orders" element={<OrdersPage />} />
               <Route path="/users" element={<UsersPage />} />
               <Route path="/settings" element={<SettingsPage />} />
+              <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
           </AnimatePresence>
         </div>

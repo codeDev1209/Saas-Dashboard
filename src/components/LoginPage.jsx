@@ -1,11 +1,21 @@
-import { useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useState, useEffect } from 'react'
+import { useNavigate, Navigate } from 'react-router-dom'
 import { Mail, Lock, Zap, Eye, EyeOff } from 'lucide-react'
 import { useApp } from '../context/AppContext'
 
 export function LoginPage() {
-  const { handleLogin, darkMode } = useApp()
+  const { handleLogin, darkMode, isLoggedIn } = useApp()
   const navigate = useNavigate()
+
+  useEffect(() => {
+    if (isLoggedIn) {
+      navigate('/', { replace: true })
+    }
+  }, [isLoggedIn, navigate])
+
+  if (isLoggedIn) {
+    return <Navigate to="/" replace />
+  }
   const [email, setEmail] = useState('bugbie@demo.com')
   const [password, setPassword] = useState('password')
   const [showPassword, setShowPassword] = useState(false)
