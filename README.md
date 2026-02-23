@@ -6,7 +6,7 @@ A modern, responsive admin dashboard built with React, Tailwind CSS, and Chart.j
 
 ## 🔗 Live Demo
 
-**Live Demo:** https://bugbie.github.io/Saas-Dashboard
+**Live Demo:** https://codedev1209.github.io/Saas-Dashboard
 
 ## Features
 
@@ -51,7 +51,7 @@ A modern, responsive admin dashboard built with React, Tailwind CSS, and Chart.j
 
 ```bash
 # Clone the repository
-git clone https://github.com/bugbie/Saas-Dashboard.git
+git clone https://github.com/codedev1209/Saas-Dashboard.git
 
 # Navigate to project
 cd Saas-Dashboard
@@ -135,16 +135,16 @@ src/
 ## Screenshots
 
 ### Login Page
-![Login](https://github.com/codeDev1209/Saas-Dashboard/blob/75323dab5531a5990998c1f29034f01f8473e4e7/screenshots/login.png)
+![Login](https://github.com/codedev1209/Saas-Dashboard/blob/75323dab5531a5990998c1f29034f01f8473e4e7/screenshots/login.png)
 
 ### Dashboard Overview
-![Dashboard](https://github.com/codeDev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/dashboard.png)
+![Dashboard](https://github.com/codedev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/dashboard.png)
 
 ### Products Page
-![Products](https://github.com/codeDev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/products.png)
+![Products](https://github.com/codedev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/products.png)
 
 ### Dark Mode
-![Dark Mode](https://github.com/codeDev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/darkmode.png)
+![Dark Mode](https://github.com/codedev1209/Saas-Dashboard/blob/e5e1941db18717f01c9ab12f6f6399def359da68/screenshots/darkmode.png)
 
 ## License
 
@@ -152,7 +152,7 @@ MIT License - feel free to use for your portfolio!
 
 ## Author
 
-**Bugbie** - [GitHub](https://github.com/bugbie)
+**CodeDev** - [GitHub](https://github.com/codedev1209)
 
 ## Acknowledgments
 

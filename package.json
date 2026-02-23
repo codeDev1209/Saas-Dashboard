@@ -11,8 +11,8 @@
     "tailwind",
     "chart.js"
   ],
-  "author": "Bugbie",
-  "homepage": "https://bugbie.github.io/Saas-Dashboard",
+"author": "CodeDev",
+  "homepage": "https://codedev1209.github.io/Saas-Dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
