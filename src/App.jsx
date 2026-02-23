@@ -1046,7 +1046,7 @@ function Dashboard() {
 export default function App() {
   return (
     <ErrorBoundary>
-      <BrowserRouter>
+      <BrowserRouter basename="/Saas-Dashboard">
         <AppProvider>
           <DataProvider>
             <Dashboard />
