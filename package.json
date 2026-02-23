@@ -1,5 +1,5 @@
 {
-  "name": "saas-dashboard",
+  "name": "Saas-Dashboard",
   "version": "2.0.0",
   "private": true,
   "type": "module",
@@ -12,7 +12,7 @@
     "chart.js"
   ],
   "author": "Bugbie",
-  "homepage": "https://bugbie.github.io/saas-dashboard",
+  "homepage": "https://bugbie.github.io/Saas-Dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

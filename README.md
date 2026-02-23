@@ -51,10 +51,10 @@ A modern, responsive admin dashboard built with React, Tailwind CSS, and Chart.j
 
 ```bash
 # Clone the repository
-git clone https://github.com/bugbie/saas-dashboard.git
+git clone https://github.com/bugbie/Saas-Dashboard.git
 
 # Navigate to project
-cd saas-dashboard
+cd Saas-Dashboard
 
 # Install dependencies
 npm install
@@ -75,7 +75,7 @@ npm run build
 npm run deploy
 ```
 
-After deploying, your dashboard will be live at: `https://yourusername.github.io/saas-dashboard`
+After deploying, your dashboard will be live at: `https://yourusername.github.io/Saas-Dashboard`
 
 ## Demo Credentials
 
