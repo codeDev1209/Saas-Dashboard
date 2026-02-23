@@ -1028,6 +1028,7 @@ function Dashboard() {
         <div className="p-4 lg:p-8">
           <AnimatePresence mode="wait">
             <Routes>
+              <Route path="/Saas-Dashboard" element={<Navigate to="/" replace />} />
               <Route path="/" element={<OverviewPage />} />
               <Route path="/analytics" element={<AnalyticsPage />} />
               <Route path="/products" element={<ProductsPage />} />
