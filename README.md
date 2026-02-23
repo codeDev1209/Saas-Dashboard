@@ -6,7 +6,7 @@ A modern, responsive admin dashboard built with React, Tailwind CSS, and Chart.j
 
 ## 🔗 Live Demo
 
-**Live Demo:** https://bugbie.github.io/saas-dashboard
+**Live Demo:** https://bugbie.github.io/Saas-Dashboard
 
 ## Features
 
